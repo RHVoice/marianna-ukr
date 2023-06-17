@@ -2,6 +2,6 @@ name=Marianna
 language=Ukrainian
 gender=female
 format=4
-revision=1
+revision=2
 msi_upgrade_code=1dad3a30-084f-4368-9890-c03c3a291df7
 exe_upgrade_code=78c90f62-7194-45a2-a634-a73dc3ab4e55
